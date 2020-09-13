@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Win-Bar Automotive Dist.
+## Columbus, GA 31901
+### 706-681-5496 Owner
 
 - Bulleted
 - List
