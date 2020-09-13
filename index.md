@@ -15,11 +15,12 @@ Syntax highlighted code block
 ## Columbus, GA 31901
 ### 706-681-5496 Owner
 
-- Bulleted
-- List
+- Automatic and Manual Transmission Parts
+- Torque Converters
+-Other Accessories/Tools/Aids to build Transmissions
 
-1. Numbered
-2. List
+1. Best Prices
+2. Superb Service
 
 **Bold** and _Italic_ and `Code` text
 
