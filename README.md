@@ -4,6 +4,9 @@ Windell Barfield's Senior Project for Win-Bar Automotove Dist.
 
 This website will be for updates for Windell Barfield's senior project at CSU.
 
+Final Website HERE:
+https://sites.google.com/columbusstate.edu/winbarauto/home?pli=1&authuser=1
+
 
 Progress Reports:
 
